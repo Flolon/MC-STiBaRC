@@ -2,10 +2,10 @@
 	font-family: "Minecraft";
 	font-style: normal;
 	font-weight: 400;
-	src: url("../fonts/minecraft_font.eot") format("eot"),
-		url("../assets/fonts/minecraft_font.woff") format("woff"),
-		url("../assets/fonts/minecraft_font.ttf") format("truetype"),
-		url("../assets/fonts/minecraft_font.svg#Minecraft") format("svg");
+	src: url("fonts/minecraft_font.eot") format("eot"),
+		url("assets/fonts/minecraft_font.woff") format("woff"),
+		url("assets/fonts/minecraft_font.ttf") format("truetype"),
+		url("assets/fonts/minecraft_font.svg#Minecraft") format("svg");
 }
 
 body {
